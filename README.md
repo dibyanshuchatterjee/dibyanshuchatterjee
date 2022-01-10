@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dibyanshuchatterjee
+- 👀 I’m interested in ...Software developement and computational problem solvings, I also seek great inrest in biologically inspired intelligent systems.
+- 🌱 I’m currently learning ...The concepts of data mining and exploring the depths of big data.
+- 📫 How to reach me ...Here is my linkedin profile - https://www.linkedin.com/in/dibyanshu-chatterjee
